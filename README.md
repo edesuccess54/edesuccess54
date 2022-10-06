@@ -1,6 +1,6 @@
 ![](./profile2.jpeg)
 
-# Hi, My Name is Success 👋
+# Hi, my name is Success 👋
 
 
 ## Frontend Developer
