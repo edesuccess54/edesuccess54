@@ -1,19 +1,31 @@
 ![](./profile2.jpeg)
 
-## Hi, My Name is Onyekaozulu 👋
+# Hi, My Name is Onyekaozulu 👋
 
 
 ## Frontend Developer
 
 
-Here are some ideas to get you started:
+I'm a  passionate Frontend whose whole interest is building interactive, accessible, and responsive websites and web applications. i'm obsessed with building things and i love solving problems with my skills. i love javascript and Reactjs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on inventory management web application
+- 👯 I'm open to collaborating on Reactjs projects
+- 📫 You can contact me at edesuccess54@gmail.com
+
+
+## SKILLS
+- HTML5
+- CSS3
+- Bootstrap
+- Javascript
+- Reactjs
+- PHP
+- MYSQL
+- GIT
+
+## LEARNING
+- NodeJs
+- Express
+- MongoDB
+- TailwindCss
 
