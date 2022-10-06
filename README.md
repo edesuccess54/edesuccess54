@@ -1,4 +1,4 @@
-![](./profile2.png)
+![](./profile.webp)
 
 ## Hi, My Name is Onyekaozulu 👋
 
