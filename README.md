@@ -1,4 +1,4 @@
-![](./profile.jpeg)
+![](./profile2.jpeg)
 
 ## Hi, My Name is Onyekaozulu 👋
 
