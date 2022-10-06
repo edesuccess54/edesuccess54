@@ -1,6 +1,6 @@
 ![](./profile2.jpeg)
 
-# Hi, My Name is Onyekaozulu 👋
+# Hi, My Name is Success 👋
 
 
 ## Frontend Developer
